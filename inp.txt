@@ -1,0 +1,1 @@
+python color_detection.py -i temp.jpg
